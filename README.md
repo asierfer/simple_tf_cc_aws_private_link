@@ -8,3 +8,6 @@ What you need;
 
 Remember that, once set, you won't be able to operate your Confluent Cloud clusters outside AWS VPC
 https://docs.confluent.io/cloud/current/networking/private-links/aws-privatelink.html
+
+The example is based in confluent official terraform examples
+https://github.com/confluentinc/terraform-provider-confluent/tree/master/examples/configurations
